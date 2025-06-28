@@ -26,11 +26,12 @@ El conjunto de datos fue generado íntegramente en Python utilizando las librer�
 ## 📌 Métricas y visualizaciones destacadas
 
 - **KPI Cards:** Facturación total 💰 | Margen promedio 📈 | Costos 💸
-- **Gráficos:**  
-  - Facturación por categoría de producto 🧴  
+- **Gráficos:**
+  - Evolución temporal de facturación y margen 🕒 
+  - Costo por categoría de producto 🧴  
   - Facturación por provincia 🗺️  
   - Facturación por canal de venta 🛒  
-  - Evolución temporal de facturación y margen 🕒  
+ 
 
 ---
 
